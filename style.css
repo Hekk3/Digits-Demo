@@ -9,7 +9,7 @@
 	height: 5439px;
 	display: grid;
 	grid-template-columns: 100%;
-	grid-template-rows: 20.07% 25.68% 18.40% 17.72% 5.93% 12.13%; /*4623*/
+	grid-template-rows: 20.07% 25.68% 18.40% 17.72% 5.93% 12.13%;
 }
 
 header {
@@ -1211,10 +1211,7 @@ footer {
 
 .links-icons {
 	margin-top: 31px;
-	/*display: grid;*/
 	width: 255px;
-	/*grid-template-rows: 17px;
-	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;*/
 }
 
 .part-link {
@@ -1300,111 +1297,3 @@ footer {
 	line-height: 27px;
 	color: #455880;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
